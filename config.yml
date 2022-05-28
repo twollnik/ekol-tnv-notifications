@@ -10,3 +10,4 @@ office: Bürgerservicecenter
 # you would like to make an appointment
 services:
   'Beantragung eines Reisepasses': 1
+  'Beantragung eines Personalausweises': 1
